@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kavishagupta
 - 👀 I’m interested in learning different programming languages , web development
-- 🌱 I’m currently learning C++ 
+- 🌱 I’m currently learning C++ , html
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email- @kavisha.kush@gmail.com 
 
