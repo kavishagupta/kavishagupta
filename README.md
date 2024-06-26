@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kavishagupta
-- 👀 I’m interested in learning different programming languages , web development
-- 🌱 I’m currently learning C++ , html
-- 💞️ I’m looking to collaborate on ...
+- 👀 Aspiring Data Analyst
+- 🎓 B.Tech in Information Technology, SRM Institute of Science and Technology (Graduating in 2025)
+- 🌱Skills: Python, Pandas, NumPy, SQL, Data Visualization 
 - 📫 How to reach me Email- @kavisha.kush@gmail.com 
 
 <!---
